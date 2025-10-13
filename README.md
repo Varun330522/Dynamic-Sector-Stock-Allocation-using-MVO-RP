@@ -1,0 +1,1 @@
+# Dynamic-Sector-Stock-Allocation-using-MVO-RP
